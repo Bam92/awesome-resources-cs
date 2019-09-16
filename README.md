@@ -10,6 +10,7 @@
 * [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 * [Algorithms and DS implemented in JavaScript ](https://github.com/trekhleb/javascript-algorithms)
 * [Collection of programming related books](https://github.com/xSavitar/programming-books-and-resources)
+* [Guide du développeur PHP](https://github.com/bpesquet/guide-developpeur-php)
 ## Style Guides & best practices
 * [A mostly reasonable approach to CSS and Sass](https://github.com/airbnb/css)
 * [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
@@ -19,3 +20,4 @@
 [Become a [GOOD] software engineer](https://github.com/jwasham/coding-interview-university)
 ## Projects
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+* [Exercism JS Exercises](https://github.com/seemaullal/exercism-JS)
