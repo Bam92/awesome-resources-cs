@@ -1,2 +1,21 @@
-# awesome-resources-cs
-A sum of all available resources in CS, software engineering, etc.
+# Resources for all your need in CS
+## Degrees
+* [Teach Yourself Computer Science](https://github.com/tk-learning-center/cs-degree)
+* [Machine Learning](https://github.com/tk-learning-center/machine-learning-degree)
+## Videos, lectures, ebooks & courses
+* [Awesome Resources RoadMap](https://github.com/lauragift21/awesome-learning-resources)
+* [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
+* [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+* [Algorithms and DS implemented in JavaScript ](https://github.com/trekhleb/javascript-algorithms)
+* [Collection of programming related books](https://github.com/xSavitar/programming-books-and-resources)
+## Style Guides & best practices
+* [A mostly reasonable approach to CSS and Sass](https://github.com/airbnb/css)
+* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
+* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+## Interviews
+[Become a [GOOD] software engineer](https://github.com/jwasham/coding-interview-university)
+## Projects
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
