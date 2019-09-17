@@ -3,6 +3,7 @@
 * [Teach Yourself Computer Science](https://github.com/tk-learning-center/cs-degree)
 * [Machine Learning](https://github.com/tk-learning-center/machine-learning-degree)
 ## Videos, lectures, ebooks & courses
+* [Learn to code for free with FreeCodeCamp](https://www.freecodecamp.org/)
 * [Awesome Resources RoadMap](https://github.com/lauragift21/awesome-learning-resources)
 * [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
@@ -28,4 +29,4 @@
 * [Q&A on (almost) everything programming](https://stackoverflow.com/)
 * [Practice coding, prepare for interviews and get hired](https://www.hackerrank.com/)
 * [Enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
-* [Code practice and mentorship]()
+* [Code practice and mentorship](https://exercism.io/)
