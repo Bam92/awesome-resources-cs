@@ -23,6 +23,7 @@
 ## Projects, exercises & quizzes
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Exercism JS Exercises](https://github.com/seemaullal/exercism-JS)
+* [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 ## Community
 * [One-on-one live programming help](https://www.codementor.io/)
 * [Project-based freelance work](https://www.codementor.io/)
