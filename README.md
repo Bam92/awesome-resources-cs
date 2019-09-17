@@ -8,16 +8,24 @@
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
 * [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
-* [Algorithms and DS implemented in JavaScript ](https://github.com/trekhleb/javascript-algorithms)
+* [Algorithms and DS implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [Collection of programming related books](https://github.com/xSavitar/programming-books-and-resources)
 * [Guide du développeur PHP](https://github.com/bpesquet/guide-developpeur-php)
+* [Andela home study curriculum](https://homestudy.andela.com/)
 ## Style Guides & best practices
 * [A mostly reasonable approach to CSS and Sass](https://github.com/airbnb/css)
 * [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 * [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 ## Interviews
-[Become a [GOOD] software engineer](https://github.com/jwasham/coding-interview-university)
-## Projects
+* [Become a [GOOD] software engineer](https://github.com/jwasham/coding-interview-university)
+## Projects, exercises & quizzes
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Exercism JS Exercises](https://github.com/seemaullal/exercism-JS)
+## Community
+* [One-on-one live programming help](https://www.codementor.io/)
+* [Project-based freelance work](https://www.codementor.io/)
+* [Q&A on (almost) everything programming](https://stackoverflow.com/)
+* [Practice coding, prepare for interviews and get hired](https://www.hackerrank.com/)
+* [Enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
+* [Code practice and mentorship]()
