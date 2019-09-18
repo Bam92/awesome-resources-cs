@@ -3,6 +3,7 @@
 * [Teach Yourself Computer Science](https://github.com/tk-learning-center/cs-degree)
 * [Machine Learning](https://github.com/tk-learning-center/machine-learning-degree)
 ## Videos, lectures, ebooks & courses
+* [Lecture references from jwasham mostly on Python](https://github.com/jwasham/lecture-reference)
 * [Learn to code for free with FreeCodeCamp](https://www.freecodecamp.org/)
 * [Awesome Resources RoadMap](https://github.com/lauragift21/awesome-learning-resources)
 * [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
@@ -21,6 +22,7 @@
 ## Interviews
 * [Become a [GOOD] software engineer](https://github.com/jwasham/coding-interview-university)
 ## Projects, exercises & quizzes
+* [Computer-science-flash-cards from jwasham](https://github.com/jwasham/computer-science-flash-cards)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Exercism JS Exercises](https://github.com/seemaullal/exercism-JS)
 * [App Ideas Collection](https://github.com/florinpop17/app-ideas)
