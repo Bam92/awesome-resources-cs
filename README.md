@@ -16,6 +16,8 @@
 * [Guide du développeur PHP](https://github.com/bpesquet/guide-developpeur-php)
 * [Andela home study curriculum](https://homestudy.andela.com/)
 ## Style Guides & best practices
+* [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 * [A mostly reasonable approach to CSS and Sass](https://github.com/airbnb/css)
 * [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 * [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
