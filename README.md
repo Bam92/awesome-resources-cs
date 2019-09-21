@@ -26,6 +26,7 @@
 ## Interviews
 * [Become a [GOOD] software engineer](https://github.com/jwasham/coding-interview-university)
 ## Projects, exercises & quizzes
+* [Node.js Bootcamp by RisingStack](https://github.com/RisingStack/risingstack-bootcamp)
 * [Computer-science-flash-cards from jwasham](https://github.com/jwasham/computer-science-flash-cards)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Exercism JS Exercises](https://github.com/seemaullal/exercism-JS)
