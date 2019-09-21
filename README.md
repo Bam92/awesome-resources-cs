@@ -16,6 +16,7 @@
 * [Guide du développeur PHP](https://github.com/bpesquet/guide-developpeur-php)
 * [Andela home study curriculum](https://homestudy.andela.com/)
 ## Style Guides & best practices
+* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices#use-a-smart-npmrc)
 * [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 * [A mostly reasonable approach to CSS and Sass](https://github.com/airbnb/css)
