@@ -3,6 +3,7 @@
 * [Teach Yourself Computer Science](https://github.com/tk-learning-center/cs-degree)
 * [Machine Learning](https://github.com/tk-learning-center/machine-learning-degree)
 ## Videos, lectures, (e)books & courses
+* [Deep Dive Into Modern Web Development](https://fullstackopen.com/en)
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Lecture references from jwasham mostly on Python](https://github.com/jwasham/lecture-reference)
 * [Learn to code for free with FreeCodeCamp](https://www.freecodecamp.org/)
