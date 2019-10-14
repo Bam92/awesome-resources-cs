@@ -16,6 +16,7 @@
 * [Collection of programming related books](https://github.com/xSavitar/programming-books-and-resources)
 * [Guide du développeur PHP](https://github.com/bpesquet/guide-developpeur-php)
 * [Andela home study curriculum](https://homestudy.andela.com/)
+* [CS courses from Class Central](https://www.freecodecamp.org/news/550-free-online-programming-computer-science-courses-you-can-start-this-october/)
 ## Style Guides & best practices
 * [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices#use-a-smart-npmrc)
 * [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
