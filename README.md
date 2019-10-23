@@ -3,6 +3,7 @@
 * [Teach Yourself Computer Science](https://github.com/tk-learning-center/cs-degree)
 * [Machine Learning](https://github.com/tk-learning-center/machine-learning-degree)
 ## Videos, lectures, (e)books & courses
+* [The 2019 Guide to Learning Web Development](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en)
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Lecture references from jwasham mostly on Python](https://github.com/jwasham/lecture-reference)
